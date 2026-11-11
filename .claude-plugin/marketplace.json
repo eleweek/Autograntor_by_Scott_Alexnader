@@ -1,0 +1,14 @@
+{
+  "name": "autograntor-prototype",
+  "description": "Unofficial prototype packaging of Scott Alexander's Autograntor grant-scoring skill",
+  "owner": {
+    "name": "Unofficial prototype packager (replace with your name)"
+  },
+  "plugins": [
+    {
+      "name": "autograntor",
+      "source": "./plugins/autograntor",
+      "description": "Score a grant in Autograntor utility units. Self-contained prototype: bundled Common Law, milestone weights, PERCYs module and a reconstructed simulator."
+    }
+  ]
+}

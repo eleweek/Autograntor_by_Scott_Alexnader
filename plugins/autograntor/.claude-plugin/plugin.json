@@ -1,0 +1,5 @@
+{
+  "name": "autograntor",
+  "version": "0.1.0",
+  "description": "Score a grant in Autograntor utility units with a structural pre-pass, two estimators, an adaptive critique round and a judge. Self-contained prototype: bundled Common Law, milestone weights, PERCYs module and a reconstructed simulator."
+}

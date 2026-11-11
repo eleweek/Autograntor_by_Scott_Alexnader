@@ -1,0 +1,8 @@
+name,size,kind,weight,p1,p0,ev,sigma,pivotal,exec,exec_mode,group,branch,branch_val,post2030,given,note
+EXAMPLE law passes,1M,event,8000,0.12,0.10,,,0.5,team,credit,policy,,,0.1,,delete these example rows
+EXAMPLE tool is used by a lab,1M,event,600,0.40,0.10,,,,team,credit,uptake,,,0,,
+EXAMPLE tool is net capabilities,1M,event,-900,0.05,0.01,,,,,,uptake,,,0,,harm mirror: same group as the row above
+EXAMPLE audience opinion shift,1M,continuous,,,,40,25,,team,,opinion,,,0,,PERCYs converted to utility
+EXAMPLE convening helps,1M,continuous,,,,30,20,,,,values,hosting_helps,yes,0,,"CL-11 branch, priced both ways"
+EXAMPLE convening hurts,1M,continuous,,,,-45,20,,,,values,hosting_helps,no,0,,
+EXAMPLE follow-on money charge,1M,charge,,,,-20,8,,,,money,,,0,,CL-4

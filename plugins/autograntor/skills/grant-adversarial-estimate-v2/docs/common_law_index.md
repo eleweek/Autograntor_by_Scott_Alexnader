@@ -1,0 +1,87 @@
+# Common Law index
+
+> **Packaging note (prototype, not part of the Common Law).** One line per ruling. Fetch the full text from the named file before citing a ruling. The published Common Law stops at CL-62; CL-63 to CL-83 exist in the owner's private copy and are NOT in this package. Do not guess their content: treat a situation one of them might cover as having no precedent.
+
+- CL-1: What a value means — Adopted — `common_law_core.md`
+- CL-2: Computing credit for an outcome — Adopted — `common_law_core.md`
+- CL-3: No credit pie — Adopted — `common_law_core.md`
+- CL-4: Charge for the resources a grant pulls in — Adopted — `common_law_core.md`
+- CL-5: Count each consequence once — Adopted — `common_law_core.md`
+- CL-6: Old rows price old things — Adopted — `common_law_core.md`
+- CL-7: Time horizon — Adopted — `common_law_core.md`
+- CL-8: The no-grant world — Adopted — `common_law_core.md`
+- CL-9: Scale-up check — Adopted — `common_law_core.md`
+- CL-10: Outcomes not on the weights list — Adopted — `common_law_core.md`
+- CL-11: Contested values questions go back to the human user — Adopted — `common_law_core.md`
+- CL-12: Other evaluators' opinions — Adopted — `common_law_core.md`
+- CL-13: Generic prices — Adopted — `common_law_core.md`
+- CL-14: Pending applications at other funders — Proposed — `common_law_topics/money-and-funders.md`
+- CL-15: CL-9 is a soft sanity check, measured against the organization not existing — Adopted — `common_law_core.md`
+- CL-16: Report the spread of realised 2030 value, not of expectations — Proposed — `common_law_topics/method-and-programs.md`
+- CL-17: Scope of a CL-11 values branch — Proposed — `common_law_topics/reputation-and-values.md`
+- CL-18: What counts as "post-2030" under CL-7 — Proposed — `common_law_topics/method-and-programs.md`
+- CL-19: Hosted vs self-run programs at a venue or incubator — Proposed — `common_law_topics/method-and-programs.md`
+- CL-20: Grants to a project of a troubled parent or fiscal sponsor — Proposed — `common_law_topics/reputation-and-values.md`
+- CL-21: Freed backstop — Proposed — `common_law_topics/money-and-funders.md`
+- CL-22: Grants above the amount asked — Proposed — `common_law_topics/expansion-and-hiring.md`
+- CL-23: Reported-but-unlisted grants and per-year survival rows — Proposed — `common_law_topics/money-and-funders.md`
+- CL-24: Games as an exposure class, and their borrowed streaming reach — Proposed — `common_law_topics/media-and-persuasion.md`
+- CL-25: Cultural-hit lump for mass media — Proposed — `common_law_topics/media-and-persuasion.md`
+- CL-26: Talent redirected by entertainment media — Proposed — `common_law_topics/media-and-persuasion.md`
+- CL-27: Reputational charge for deliberately edgy products — Proposed — `common_law_topics/reputation-and-values.md`
+- CL-28: Earned revenue versus follow-on grants — Proposed — `common_law_topics/money-and-funders.md`
+- CL-29: Leader-commitment-gated, refundable grants — Proposed — `common_law_topics/money-and-funders.md`
+- CL-30: Applicant-defined reach metrics need an audit before conversion — Proposed — `common_law_topics/media-and-persuasion.md`
+- CL-31: Grant-caused continuation of a program that dies without the grant — Proposed — `common_law_topics/method-and-programs.md`
+- CL-32: Already-realised reputational events and founder-profile risk — Proposed — `common_law_topics/reputation-and-values.md`
+- CL-33: Grants that may never be disbursed — Adopted — `common_law_core.md`
+- CL-34: Funging with an intended but unsubmitted application to a repeat funder — Proposed — `common_law_topics/money-and-funders.md`
+- CL-35: Grant within the ask but above absorptive capacity — Proposed — `common_law_topics/money-and-funders.md`
+- CL-36: Scaling risk as signed rows — Proposed — `common_law_topics/expansion-and-hiring.md`
+- CL-37: The marginal factor for expansion grants is bounded by the non-founder average dollar — Proposed — `common_law_topics/expansion-and-hiring.md`
+- CL-38: Persistence of grant-funded hires at an organisation that survives without the grant — Proposed — `common_law_topics/expansion-and-hiring.md`
+- CL-39: Expansion grants at organisations whose marginal spend is external contractors — Proposed — `common_law_topics/expansion-and-hiring.md`
+- CL-40: Which downside rows inherit the marginal factor — Proposed — `common_law_topics/expansion-and-hiring.md`
+- CL-41: Applicant-stated plan ambition raises the absorptive cap — Proposed — `common_law_topics/money-and-funders.md`
+- CL-42: Pricing a sequel story by the realised bite of the stories that already ran — Proposed — `common_law_topics/reputation-and-values.md`
+- CL-43: Funders outside the platform keep their independent money in the no-grant world — Proposed — `common_law_topics/money-and-funders.md`
+- CL-44: Adviser-recommended, unfilled funding and funding-state blending — Proposed — `common_law_topics/money-and-funders.md`
+- CL-45: Ladder rows for successive upgrades of one jurisdiction's law — Proposed — `common_law_topics/policy-and-laws.md`
+- CL-46: Attributing a multi-year outcome to one year's spending — Proposed — `common_law_topics/method-and-programs.md`
+- CL-47: Grantee-organised candidate fundraising and electoral work — Proposed — `common_law_topics/policy-and-laws.md`
+- CL-48: c4 vs. c3 dollars — Proposed — `common_law_topics/policy-and-laws.md`
+- CL-49: Survival of state laws against federal preemption — Proposed — `common_law_topics/policy-and-laws.md`
+- CL-50: One ledger, one budget for a paired c3/c4 organisation — Proposed — `common_law_topics/policy-and-laws.md`
+- CL-51: Leverage factors for non-US national actors — Proposed — `common_law_topics/policy-and-laws.md`
+- CL-52: Recruit-on-funding lags, dated windows and part-time roles — Proposed — `common_law_topics/method-and-programs.md`
+- CL-53: Applicant minimum-size statements with pending money — Proposed — `common_law_topics/money-and-funders.md`
+- CL-54: Volunteer labour in CL-15 and CL-37 comparators — Proposed — `common_law_topics/expansion-and-hiring.md`
+- CL-55: Amendment to CL-16, pivotal vs diffuse credit for traceable rows — Proposed — `common_law_topics/method-and-programs.md`
+- CL-56: CL-37 comparator anchored on the track record; CL-15 vs CL-37 — Proposed — `common_law_topics/expansion-and-hiring.md`
+- CL-57: Charges excluded from the CL-15 comparison — Proposed — `common_law_topics/expansion-and-hiring.md`
+- CL-58: [Struck by the human user 2026-10-18] Evaluator recommendations in a bill-splitting round — Struck — `common_law_topics/money-and-funders.md`
+- CL-59: A later round of the same funder when the organisation survives without the grant — Proposed, superseded — `common_law_topics/money-and-funders.md`
+- CL-60: CL-36 charges against an execution factor that contains a collapse state — Proposed — `common_law_topics/expansion-and-hiring.md`
+- CL-61: Exposure rows for founder-gated sensitive work — Proposed — `common_law_topics/reputation-and-values.md`
+- CL-62: Other evaluators' allocations in the same round are ignored — Adopted — `common_law_core.md`
+- CL-63: (not in the published Common Law; text unavailable) — Missing — none
+- CL-64: (not in the published Common Law; text unavailable) — Missing — none
+- CL-65: (not in the published Common Law; text unavailable) — Missing — none
+- CL-66: (not in the published Common Law; text unavailable) — Missing — none
+- CL-67: (not in the published Common Law; text unavailable) — Missing — none
+- CL-68: (not in the published Common Law; text unavailable) — Missing — none
+- CL-69: (not in the published Common Law; text unavailable) — Missing — none
+- CL-70: (not in the published Common Law; text unavailable) — Missing — none
+- CL-71: (not in the published Common Law; text unavailable) — Missing — none
+- CL-72: (not in the published Common Law; text unavailable) — Missing — none
+- CL-73: (not in the published Common Law; text unavailable) — Missing — none
+- CL-74: (not in the published Common Law; text unavailable) — Missing — none
+- CL-75: (not in the published Common Law; text unavailable) — Missing — none
+- CL-76: (not in the published Common Law; text unavailable) — Missing — none
+- CL-77: (not in the published Common Law; text unavailable) — Missing — none
+- CL-78: (not in the published Common Law; text unavailable) — Missing — none
+- CL-79: (not in the published Common Law; text unavailable) — Missing — none
+- CL-80: (not in the published Common Law; text unavailable) — Missing — none
+- CL-81: (not in the published Common Law; text unavailable) — Missing — none
+- CL-82: (not in the published Common Law; text unavailable) — Missing — none
+- CL-83: (not in the published Common Law; text unavailable) — Missing — none
